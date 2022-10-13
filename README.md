@@ -9,3 +9,6 @@ Application for creating playlists from the given titles
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <h2>Photos</h2>
+
+ ![photo1](spotify-playlist-maker1.jpg)
+ ![photo2](spotify-playlist-maker2.jpg)
