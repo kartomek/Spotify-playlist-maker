@@ -10,5 +10,5 @@ Application for creating playlists from the given titles
 
 <h2>Photos</h2>
 
- ![photo1](spotify-playlist-maker1.jpg)
- ![photo2](spotify-playlist-maker2.jpg)
+ ![photo1](spotify-playlist-maker1.png)
+ ![photo2](spotify-playlist-maker2.png)
